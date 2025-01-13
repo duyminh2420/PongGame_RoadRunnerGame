@@ -1,4 +1,5 @@
 Link Google drive: https://drive.google.com/drive/folders/1Y6iKM4XqUU_3QkvJspw_2cN_tyZmKMg4?usp=drive_link
+https://drive.google.com/drive/u/2/folders/1hnOAe0_z5yb0j6Klzt7hkqRs3Ixyxt3z
 Part 2: Pong game
 Link video: https://drive.google.com/file/d/1WS0WgzcCxLTWm9IYho_7t1Iu3tZnJD05/view?usp=drive_link
 link model: https://drive.google.com/file/d/115Av2Uj9SxFsj6h4n-J46Tpgcjz3hMlq/view?usp=drive_link
